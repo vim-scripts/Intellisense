@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=827
+
+This is the JSP plugin of Intellisense. 
+You need Intellisense core package for this to work, which you can download from http://insenvim.sourceforge.net or http://sourceforge.net/projects/insenvim.
+You also need Java and HTML plugin for this to work.
+A new HTML plugin is available, and you should install it. It fixes one big problem.
